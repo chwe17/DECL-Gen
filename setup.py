@@ -31,7 +31,6 @@ setup(
         "seaborn",
         "BioPython",
         "pillow",
-        "rdkit",
         "statsmodels",
     ],
 
